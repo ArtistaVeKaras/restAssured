@@ -19,14 +19,10 @@
             <suiteXmlFile>testng.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
-      </plugin>
-      
-      
-   
+      </plugin>   
+       
 </plugins>
 </build>
-
-
   <dependencies>
      <dependency>
   <groupId>org.testng</groupId>
@@ -65,9 +61,7 @@
       <version>3.0.2</version>
       <scope>test</scope>
 </dependency>
-  </dependencies>
-  
- 
+  </dependencies> 
   
 </project>
 
